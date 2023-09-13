@@ -1,6 +1,6 @@
 <h1 align="center">Hoja de vida realizado en HTML y CSS👋</h1>
 <p align="center">
-  <img src="https://imgur.com/gallery/Q2AkCz8">
+  <img src="https://i.imgur.com/oBDXCtb.png">
 </p>
 
 ## Acerca del proyecto
